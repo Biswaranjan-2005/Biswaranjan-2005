@@ -39,7 +39,7 @@
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/bchakra/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
