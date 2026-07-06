@@ -117,7 +117,7 @@ Responsive student–alumni networking platform built with **HTML**, **CSS**, an
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswaranjan-2005&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Biswaranjan-2005&layout=compact&theme=tokyonight"/>
 
 </p>
 
